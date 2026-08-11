@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project (P-9)
+# Walmart Data Analysis: End-to-End SQL + Python Project 
 
 ## 📌 Project Overview
 
@@ -10,9 +10,9 @@ This project is ideal for data analysts looking to develop practical skills in d
 
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python 3.8+
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 - **IDE:** VS Code / Jupyter Notebook
-- **Libraries:** `pandas`, `numpy`, `sqlalchemy`, `pymysql`, `mysql-connector-python`, `psycopg2`, `ipykernel`
+- **Libraries:** `pandas`, `numpy`, `sqlalchemy`, `pymysql`, `mysql-connector-python`, `ipykernel`
 
 ---
 
